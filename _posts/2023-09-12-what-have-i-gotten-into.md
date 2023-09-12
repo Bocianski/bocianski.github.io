@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "My first real Jekyll project cocluding contract already!"
+title: "My first real Jekyll project and cocluding contract already!"
 date: 2023-09-12 12:41:30 +0200
+thumbnail-img: assets/img/1482672.png
 categories: jekyll contract
 ---
 I just began working with Jekyll and it was a bumpy road. Yesterday I gave up on making my site wrom scratch nad decided to use premade template which resulted in much better experience. However even with that I could not make it work so my mentor had to intervene and help me with setting up local server becuase of lacking dependencies.
