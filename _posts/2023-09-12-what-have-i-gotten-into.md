@@ -15,7 +15,7 @@ My happiness was short lived becuase I was given task to update MLJAR's company 
 
 Don't get me wrong, I'm more than gratefull for every opportunity from Ola and Piotrek but ain't that a little too much for me? Thay even offered to pay me for this work.
 
-<iframe width="560" height="315" allign="center" src="https://www.youtube.com/embed/55YOw2Oz8ac?si=xDP98rBuVRaMbbXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{: .mx-auto.d-block :}
+<iframe width="560" height="315" allign="center" src="https://www.youtube.com/embed/55YOw2Oz8ac?si=xDP98rBuVRaMbbXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Even thou it's not gonna be easy I'm gonna go for it and challange myself and show them I can and I WILL DO IT!
 No matter what.
