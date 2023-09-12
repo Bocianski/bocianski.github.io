@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Bocianski_web_page
+title: Bocianski web page
 
 # Your name to show in the footer
 author: Bocianski
@@ -251,7 +251,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "UTC"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

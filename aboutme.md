@@ -4,6 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
+![Me on a horse](/assets/img/me_on_a_horse.jpg "photo of me")
+
+Yup, that's me ( ͡~ ͜ʖ ͡°)
 My name is Szymon Niewiński. I have the following qualities:
 
 - I rock a great mustache
