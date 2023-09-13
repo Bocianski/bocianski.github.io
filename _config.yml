@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Bocianski
+title: Bocianski web page
 
 # Your name to show in the footer
 author: Bocianski
@@ -51,12 +51,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "szyper212pl@gmail.com"
-rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: Szymon Niewinski
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: szymon.niewinski.96
   github: Bocianski
-# twitter: daattali
-# patreon: DeanAttali
-# youtube: c/daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -64,8 +64,8 @@ rss: true  # remove this line if you don't want to show an RSS link at the botto
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: Szymon
-#  telephone: +48731253951
+#  spotify: yourname
+#  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -251,7 +251,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "UTC"
+timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
