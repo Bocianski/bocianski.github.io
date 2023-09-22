@@ -6,6 +6,7 @@ thumbnail-img: assets/img/1482672.png
 categories: jekyll contract
 tags: firststeps
 ---
+
 I just began working with Jekyll and it was a bumpy road. Yesterday I gave up on making my site wrom scratch nad decided to use premade template which resulted in much better experience. However even with that I could not make it work so my mentor had to intervene and help me with setting up local server becuase of lacking dependencies.
 
 Thankfully now everything is working perfectly yes-yes.
