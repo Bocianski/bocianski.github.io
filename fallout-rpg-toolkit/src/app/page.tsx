@@ -1,4 +1,5 @@
-import DiceRoller2d20 from "@/components/DiceRoller2d20"
+import React from "react"
+import DiceRoller2d20 from "../components/DiceRoller2d20"
 
 /*
 import Image from "next/image";
